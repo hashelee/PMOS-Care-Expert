@@ -1,0 +1,7 @@
+# Data handling (IMP-02 onwards)
+pandas>=2.2
+openpyxl>=3.1      # lets pandas read the Kaggle .xlsx file
+
+# Running notebooks
+jupyter
+ipykernel
