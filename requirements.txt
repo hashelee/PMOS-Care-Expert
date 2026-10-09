@@ -5,7 +5,3 @@ openpyxl>=3.1      # lets pandas read the Kaggle .xlsx file
 # Running notebooks
 jupyter
 ipykernel
-
-# Modelling (IMP-06 onwards)
-scikit-learn>=1.4
-numpy>=1.26
