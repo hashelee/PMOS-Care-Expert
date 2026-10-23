@@ -9,3 +9,6 @@ ipykernel
 # Modelling (IMP-06 onwards)
 scikit-learn>=1.4
 numpy>=1.26
+
+# Testing (W1-06): python -m pytest -q
+pytest>=8.0
